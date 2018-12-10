@@ -19,8 +19,22 @@
 			"courseName": "Java",
 			"startDate": "03-12-2018",
 			"time": "8:00 AM",
-			"type": "Ongoing",
+			"type": "Ongoing(Registration's still open)",
 			"facultyName": "Ashok"
+		},
+		{
+			"courseName": "FrameWorks(Hibernate,Spring)",
+			"startDate": "15-12-2018",
+			"time": "2:00 PM",
+			"type": "Starting(New batch)",
+			"facultyName": "Devendra Singh"
+		},
+		{
+			"courseName": "Java",
+			"startDate": "15-12-2018",
+			"time": "2:00 PM",
+			"type": "Starting(New batch weekend)",
+			"facultyName": "Srinivas"
 		}
 
 	]
