@@ -26,14 +26,14 @@
 			"courseName": "FrameWorks(Hibernate,Spring)",
 			"startDate": "15-12-2018",
 			"time": "2:00 PM",
-			"type": "Starting(New batch)",
+			"type": "Starting(New weekend batch)",
 			"facultyName": "Devendra"
 		},
 		{
 			"courseName": "Java",
 			"startDate": "15-12-2018",
 			"time": "2:00 PM",
-			"type": "Starting(New batch weekend)",
+			"type": "Starting(New weekend batch)",
 			"facultyName": "Srinivas"
 		}
 
