@@ -2,23 +2,23 @@
 	"Faculties": [
 		{
 			"name": "Omkar",
-			"description": "Founder X-workz Development Center. Ten years of IT development and training experience. Trained more than 10000 students in java and jee technologies.Specialiazed in Hibernate, Spring, Angular and Cloud. Experience in corporate training.Expert in enterprise application development",
-			"imgSrc": "https://raw.githubusercontent.com/Xworkz/FacultiesImages/master/Omkar.png"
+			"description": "Founder X-workz Development Center. Ten years of IT development and training experience. Trained more than 10000 students on java and jee technologies.Specialiazed in Hibernate, Spring, Angular and Cloud. Experience in corporate training.Expert in enterprise application development",
+			"imgSrc": "assets/images/Omkar.png"
 		},
 		{
 			"name": "Harsha",
-			"description": "Four years of Development and training experience.Trained more than 3000 students in Java and in other Web technologies and frameworks.Full Stack Developer.Expert in Front End Technologies",
-			"imgSrc": "https://raw.githubusercontent.com/Xworkz/FacultiesImages/master/Harsha.png"
+			"description": "Four years of Development and training experience.Trained more than 3000 students on Java and in other Web technologies and frameworks.Full Stack Developer.Expert in Front End Technologies",
+			"imgSrc": "assets/images/Harsha.png"
 		},
 		{
 			"name": "Ashok",
 			"description": "Has an experience of 4 years in IT and 3 years in training.Has conducted training session for more than 2000 students on technologies like Java, JEE and Frameworks.Extensive knowledge in developing Enterprise applications and helped students to practically implement applications on their own",
-			"imgSrc": "https://raw.githubusercontent.com/Xworkz/FacultiesImages/master/Ashok.png"
+			"imgSrc": "assets/images/Ashok.png"
 		},
 		{
 			"name": "Prajwal",
-			"description": "General Manager X-Workz.Product manager for an IT brand(hardware).Has skilled experienced of more than 16 years.Dedicated workmanship and delivery",
-			"imgSrc": "https://raw.githubusercontent.com/Xworkz/FacultiesImages/master/Prajwal.png"
+			"description": "General Manager X-Workz.Product manager for an IT brand(hardware).Highly skilled and has an experience of 16+ years.Dedicated workmanship and delivery",
+			"imgSrc": "assets/images/Prajwal.png"
 		}
 		
 		]
