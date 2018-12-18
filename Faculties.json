@@ -14,7 +14,18 @@
 			"name": "Ashok",
 			"description": "Has an experience of 4 years in IT and 3 years in training.Has conducted training session for more than 2000 students on technologies like Java, JEE and Frameworks.Extensive knowledge in developing Enterprise applications and helped students to practically implement applications on their own",
 			"imgSrc": "assets/images/Ashok.png"
+		},
+		{
+			"name": "Srinivas Chinthal",
+			"description": "Has an experience of 4 years in IT and 4 years in training.Has conducted training session for more than 750 students.Hands on JAVA, JEE, Oracle ATG and SFCC experience",
+			"imgSrc": "assets/images/Srinivas.png"
+		},
+		{
+			"name": "Devendra Singh",
+			"description": "Has an experience of 3 years in IT and 2 years in training.Trained over 1000 students.Helping students to practically impelement projects. Expert in advance java technologies",
+			"imgSrc": "assets/images/Devendra.png"
 		}
+		
 		
 		]
 }
