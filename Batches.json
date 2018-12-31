@@ -1,41 +1,67 @@
 {
-	"Batches": [
-		{
-			"courseName": "FrameWorks(Hibernate,Spring)",
-			"startDate": "22-11-2018",
-			"time": "8:00 AM",
-			"type": "Ongoing",
-			"facultyName": "Omkar"
-		},
-		{
-
-			"courseName": "Angular 6",
-			"startDate": "01-12-2018",
-			"time": "9:30 AM",
-			"type": "Ongoing",
-			"facultyName": "Harsha"
-		},
-		{
-			"courseName": "Java",
-			"startDate": "03-12-2018",
-			"time": "8:00 AM",
-			"type": "Ongoing(Registration's still open)",
-			"facultyName": "Ashok"
-		},
-		{
-			"courseName": "FrameWorks(Hibernate,Spring)",
-			"startDate": "15-12-2018",
-			"time": "2:00 PM",
-			"type": "Ongoing(Weekend batch registration's still open)",
-			"facultyName": "Devendra"
-		},
-		{
-			"courseName": "Java",
-			"startDate": "15-12-2018",
-			"time": "2:00 PM",
-			"type": "Ongoing(Weekend batch registration's still open)",
-			"facultyName": "Srinivas"
-		}
-
-	]
+  "Batches": [
+    {
+      "courseName": "Frameworks(Spring And Hibernate)",
+      "startDate": "07-01-2018",
+      "time": "8:00 AM",
+      "type": "Starting",
+      "facultyName": "Omkar"
+    },
+    {
+      "courseName": "Java",
+      "startDate": "17-01-2018",
+      "time": "8:00 AM",
+      "type": "Starting",
+      "facultyName": "Ashok"
+    },
+    {
+      "courseName": "Angular",
+      "startDate": "12-01-2018",
+      "time": "9:30 AM",
+      "type": "Starting",
+      "facultyName": "Harsha"
+    },
+    {
+      "courseName": "Android(Kotlin)",
+      "startDate": "12-01-2018",
+      "time": "9:30 AM",
+      "type": "Starting",
+      "facultyName": "karthik"
+    },
+    {
+      "courseName": "FrameWorks(Hibernate,Spring)",
+      "startDate": "22-11-2018",
+      "time": "8:00 AM",
+      "type": "Ongoing",
+      "facultyName": "Omkar"
+    },
+    {
+      "courseName": "Angular 6",
+      "startDate": "01-12-2018",
+      "time": "9:30 AM",
+      "type": "Ongoing",
+      "facultyName": "Harsha"
+    },
+    {
+      "courseName": "Java",
+      "startDate": "03-12-2018",
+      "time": "8:00 AM",
+      "type": "Ongoing",
+      "facultyName": "Ashok"
+    },
+    {
+      "courseName": "FrameWorks(Hibernate,Spring)",
+      "startDate": "15-12-2018",
+      "time": "2:00 PM",
+      "type": "Ongoing",
+      "facultyName": "Devendra"
+    },
+    {
+      "courseName": "Java",
+      "startDate": "15-12-2018",
+      "time": "2:00 PM",
+      "type": "Ongoing",
+      "facultyName": "Srinivas"
+    }
+  ]
 }
