@@ -1,7 +1,7 @@
 {
   "Batches": [
     {
-      "courseName": "Frameworks(Spring And Hibernate)",
+      "courseName": "Frameworks(Hibernate,Spring)",
       "startDate": "07-01-2019",
       "time": "8:00 AM",
       "type": "Starting",
@@ -15,7 +15,7 @@
       "facultyName": "Ashok"
     },
     {
-      "courseName": "Angular",
+      "courseName": "Angular 6",
       "startDate": "12-01-2019",
       "time": "9:30 AM",
       "type": "Starting",
