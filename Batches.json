@@ -62,6 +62,13 @@
       "time": "2:00 PM",
       "type": "Ongoing",
       "facultyName": "Srinivas"
+    },
+     {
+      "courseName": "Web Technologies",
+      "startDate": "18-12-2018",
+      "time": "9:30 AM",
+      "type": "Ongoing",
+      "facultyName": "Arun"
     }
   ]
 }
