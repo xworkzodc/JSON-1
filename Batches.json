@@ -1,6 +1,27 @@
 {
   "Batches": [
     {
+      "courseName": "SQL",
+      "startDate": "02-02-2019",
+      "time": "11:00 AM",
+      "type": "Starting",
+      "facultyName": "Varun"
+    },
+    {
+      "courseName": "REST",
+      "startDate": "02-02-2019",
+      "time": "2:00 PM",
+      "type": "Starting",
+      "facultyName": "Arun"
+    },
+    {
+      "courseName": "Angular 6",
+      "startDate": "04-02-2019",
+      "time": "6:00 PM",
+      "type": "Starting",
+      "facultyName": "Arun"
+    },
+    {
       "courseName": "Frameworks(Hibernate,Spring)",
       "startDate": "07-01-2019",
       "time": "8:00 AM",
@@ -11,21 +32,21 @@
       "courseName": "Java",
       "startDate": "17-01-2019",
       "time": "8:00 AM",
-      "type": "Starting",
+      "type": "Started",
       "facultyName": "Ashok"
     },
     {
       "courseName": "Angular 6",
       "startDate": "12-01-2019",
       "time": "9:30 AM",
-      "type": "Starting",
+      "type": "Started",
       "facultyName": "Harsha"
     },
     {
       "courseName": "Android(Kotlin)",
       "startDate": "19-01-2019",
       "time": "9:30 AM",
-      "type": "Starting",
+      "type": "Started",
       "facultyName": "karthik"
     },
     {
@@ -39,7 +60,7 @@
       "courseName": "Angular 6",
       "startDate": "01-12-2018",
       "time": "9:30 AM",
-      "type": "Almost Complete",
+      "type": "Ongoing",
       "facultyName": "Harsha"
     },
     {
@@ -63,7 +84,7 @@
       "type": "Ongoing",
       "facultyName": "Srinivas"
     },
-     {
+    {
       "courseName": "Web Technologies",
       "startDate": "18-12-2018",
       "time": "9:30 AM",
