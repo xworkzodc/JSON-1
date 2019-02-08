@@ -1,22 +1,6 @@
 {
   "Batches": [
     {
-      "Starting": [
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "09-02-2019",
-          "time": "09:30 AM",
-          "type": "Starting",
-          "facultyName": "Devendra"
-        },
-        {
-          "courseName": "JAVA",
-          "startDate": "09-02-2019",
-          "time": "09:30 AM",
-          "type": "Starting",
-          "facultyName": "Srinivas"
-        }
-      ],
       "Started": [
         {
           "courseName": "SQL",
