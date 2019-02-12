@@ -28,13 +28,6 @@
           "facultyName": "Varun"
         },
         {
-          "courseName": "REST",
-          "startDate": "02-02-2019",
-          "time": "2:00 PM",
-          "type": "Started",
-          "facultyName": "Arun"
-        },
-        {
           "courseName": "Angular 6",
           "startDate": "04-02-2019",
           "time": "6:00 PM",
@@ -104,6 +97,13 @@
           "time": "9:30 AM",
           "type": "Completed",
           "facultyName": "Harsha"
+        },
+        {
+          "courseName": "REST",
+          "startDate": "02-02-2019",
+          "time": "2:00 PM",
+          "type": "Started",
+          "facultyName": "Arun"
         },
         {
           "courseName": "Web Technologies",
