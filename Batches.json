@@ -1,7 +1,7 @@
 {
   "Batches": [
     {
-      "Starting": [
+      "Started": [
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "09-02-2019",
@@ -15,11 +15,7 @@
           "time": "9:30 AM",
           "type": "Starting",
           "facultyName": "Srinivas"
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "SQL",
           "startDate": "02-02-2019",
