@@ -63,13 +63,6 @@
           "facultyName": "Asha"
         },
         {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "15-12-2018",
-          "time": "2:00 PM",
-          "type": "Ongoing",
-          "facultyName": "Devendra"
-        },
-        {
           "courseName": "Java",
           "startDate": "15-12-2018",
           "time": "2:00 PM",
@@ -86,6 +79,13 @@
           "time": "8:00 AM",
           "type": "Completed",
           "facultyName": "Omkar"
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "15-12-2018",
+          "time": "2:00 PM",
+          "type": "Completed",
+          "facultyName": "Devendra"
         },
         {
           "courseName": "Angular 6",
