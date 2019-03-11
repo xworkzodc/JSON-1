@@ -77,25 +77,11 @@
           "facultyName": "Arun"
         },
         {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "07-01-2019",
-          "time": "8:00 AM",
-          "type": "Started",
-          "facultyName": "Omkar"
-        },
-        {
           "courseName": "Java",
           "startDate": "17-01-2019",
           "time": "8:00 AM",
           "type": "Started",
           "facultyName": "Ashok"
-        },
-        {
-          "courseName": "Angular 6",
-          "startDate": "12-01-2019",
-          "time": "9:30 AM",
-          "type": "Started",
-          "facultyName": "Harsha"
         }
       ]
     },
@@ -109,11 +95,32 @@
           "facultyName": "Asha"
         },
         {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "07-01-2019",
+          "time": "8:00 AM",
+          "type": "Started",
+          "facultyName": "Omkar"
+        },
+        {
           "courseName": "Java",
           "startDate": "15-12-2018",
           "time": "2:00 PM",
           "type": "Ongoing",
           "facultyName": "Srinivas"
+        },
+        {
+          "courseName": "Angular 6",
+          "startDate": "04-02-2019",
+          "time": "6:00 PM",
+          "type": "Started",
+          "facultyName": "Arun"
+        },
+        {
+          "courseName": "Angular 6",
+          "startDate": "12-01-2019",
+          "time": "9:30 AM",
+          "type": "Started",
+          "facultyName": "Harsha"
         }
       ]
     },
