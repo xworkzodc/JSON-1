@@ -3,13 +3,6 @@
     {
       "Upcoming": [
         {
-          "courseName": "JDBC",
-          "startDate": "11-03-2019",
-          "time": "8:00 AM",
-          "type": "Upcoming",
-          "facultyName": "Asha"
-        },
-        {
           "courseName": "JEE",
           "startDate": "16-03-2019",
           "time": "8:00 AM",
@@ -42,11 +35,25 @@
     {
       "Started": [
         {
+          "courseName": "JDBC",
+          "startDate": "11-03-2019",
+          "time": "8:00 AM",
+          "type": "Started",
+          "facultyName": "Asha"
+        },
+        {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "09-02-2019",
           "time": "9:30 AM",
           "type": "Started",
           "facultyName": "Devendra"
+        },
+        {
+          "courseName": "Web Technologies",
+          "startDate": "09-03-2019",
+          "time": "8:00 AM",
+          "type": "Started",
+          "facultyName": "Arun"
         },
         {
           "courseName": "JAVA",
